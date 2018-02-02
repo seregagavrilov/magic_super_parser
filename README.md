@@ -10,6 +10,11 @@ The script can:
 
 5. Output the result of the script in various formats.
 
+
+Running the programm - python py_parser.py
+
 All parameters are entered with a comma, if there is no paramiter, put a comma.
+
+Help - python py_parser.py help
 
 Enjoy!
