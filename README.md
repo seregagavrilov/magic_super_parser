@@ -15,6 +15,6 @@ Running the programm - python py_parser.py
 
 All parameters are entered with a comma, if there is no paramiter, put a comma.
 
-Help - python pu_parse.py help
+Help - python py_parser.py help
 
 Enjoy!
