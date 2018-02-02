@@ -1,4 +1,4 @@
-The script can
+The script can:
 
 1. For convenience, it is possible to clone repositories from different sources
 
